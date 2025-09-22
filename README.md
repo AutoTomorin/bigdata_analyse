@@ -8,4 +8,5 @@
 
 <img width="3567" height="2365" alt="特征重要性" src="https://github.com/user-attachments/assets/39231ade-e503-47fe-9781-be12e7a64f67" />
 列指标与流失绿相关度分析
+
 应用了LogisticRegression RandomForest tGradientBoosting LightGBM几个模型后得到的最优结果
